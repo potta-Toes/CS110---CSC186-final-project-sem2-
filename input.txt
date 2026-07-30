@@ -1,0 +1,31 @@
+ACADEMIC|O001|C001|Ali Ahmad|0123456789|Java Programming|30.0|2|Programming|Diploma
+FICTION|O002|C002|Siti Aminah|0134567890|The Lost Island|20.0|3|Adventure|Aina Ahmad
+ACADEMIC|O003|C003|Muhammad Irfan|01121815562|Object Oriented Programming|35.0|1|Computer Science|Diploma
+FICTION|O004|C004|Nur Aisyah|0167890123|Mystery House|18.0|2|Mystery|John Smith
+ACADEMIC|O005|C005|Ahmad Hakim|0145678901|Database System|25.0|4|Database|Degree
+FICTION|O006|C006|Sarah Lee|0181234567|Love In Paris|22.0|5|Romance|Emma Brown
+ACADEMIC|O007|C007|Farhan Razak|0172223344|Data Structure|28.0|2|Programming|Diploma
+FICTION|O008|C008|Nadia Yusuf|0193334455|Dark Forest|24.0|1|Fantasy|Kevin Hart
+ACADEMIC|O009|C009|Hakim Azmi|0121112233|Computer Network|32.0|3|Networking|Degree
+FICTION|O010|C010|Nurul Huda|0132223344|Ghost Village|19.0|4|Horror|Ali Imran
+ACADEMIC|O011|C011|Aiman Zaki|0143334455|Web Development|27.0|2|Programming|Diploma
+FICTION|O012|C012|Balqis Sofia|0154445566|Secret Agent|21.0|3|Action|Tom Carter
+ACADEMIC|O013|C013|Faizal Karim|0165556677|Software Engineering|38.0|1|Software|Degree
+FICTION|O014|C014|Izzati Hana|0176667788|Moonlight Love|23.0|2|Romance|Sarah White
+ACADEMIC|O015|C015|Syafiq Rahman|0187778899|Artificial Intelligence|45.0|2|AI|Degree
+FICTION|O016|C016|Danish Akmal|0198889900|Kingdom War|26.0|3|Fantasy|Robert King
+ACADEMIC|O017|C017|Nabil Arif|0129090909|Operating System|29.0|2|System|Diploma
+FICTION|O018|C018|Hani Fatin|0138080808|Silent Killer|20.0|4|Thriller|Jack Ryan
+ACADEMIC|O019|C019|Afiq Iskandar|0147070707|Cyber Security|40.0|1|Security|Degree
+FICTION|O020|C020|Nur Syazana|0156060606|Dragon World|25.0|2|Fantasy|Chris Evans
+ACADEMIC|O021|C021|Adam Firdaus|0165050505|Mobile Application|31.0|3|Programming|Diploma
+FICTION|O022|C022|Alya Natasha|0174040404|Ocean Mystery|18.0|5|Mystery|David Jones
+ACADEMIC|O023|C023|Shahrul Nizam|0183030303|Cloud Computing|42.0|2|Cloud|Degree
+FICTION|O024|C024|Nurin Safiya|0192020202|Zombie Attack|22.0|3|Horror|Mark Lee
+ACADEMIC|O025|C025|Firdaus Hakim|0121010101|Machine Learning|50.0|1|AI|Degree
+FICTION|O026|C026|Sabrina Yasmin|0139091919|Magic School|24.0|2|Fantasy|J.K. Wilson
+ACADEMIC|O027|C027|Amirul Hakim|0148181818|System Analysis|30.0|4|Software|Diploma
+FICTION|O028|C028|Aisyah Humaira|0157272727|Haunted Castle|19.0|3|Horror|Andrew Scott
+ACADEMIC|O029|C029|Khairul Anuar|0166363636|Big Data Analytics|48.0|2|Data Science|Degree
+FICTION|O030|C030|CT Munnira|0175454545|Journey To Mars|27.0|2|Science Fiction|Neil Parker
+ACADEMIC|23904|-20491|V|0119242|Jadufar|0.3|9|Anime|degree
